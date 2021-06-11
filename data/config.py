@@ -1,4 +1,6 @@
-BOT_TOKEN = '1666916868:AAGU4yb1qKMkjZS9YLPAxn7oQmxA7mtbNiM'
+#Insert your bot_token here
+BOT_TOKEN = ''
+#Insert Admin Telegram.User.Id here
 admins = [
-    669481259
+    
 ]
